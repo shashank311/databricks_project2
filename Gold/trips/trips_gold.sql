@@ -1,4 +1,4 @@
--- I'm creating a view called fact_trips in the gold schema where I'm doing
+-- I'm creating a view called fact_trips in the gold schema where I'm  generating a highly denormalised table which will have all the columns from all the tables
 -- I'm doing a join between these three tables
 -- 
 
